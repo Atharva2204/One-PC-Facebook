@@ -1,5 +1,5 @@
 # One-PC-Facebook
-One PC Facebook is a messaging program developed in C++ which allows you to connect to your friends
+One PC Facebook is a messaging program developed as a mini project in C++ which allows you to connect to your friends
 
 **********************************************************************************************************************************
  
