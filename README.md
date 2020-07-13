@@ -1,6 +1,8 @@
 # One-PC-Facebook
-One PC Facebook is a chat application developed in Second Year of Engineering (SE) as a mini project in C++ (1st prize Winner) which allows you to connect to your friends.
+One PC Facebook is a chat application developed in Second Year of Engineering (SE) as a mini project in C++ (1st prize Winner)
 
+
+It was our 1st miniproject held in the third semester of my BE ; which not only gave me a good technical knowledge and a first prize but also endorsed a skill of team management and team leadership in me.
 
 1st Prize Winner Certificate on <a href="https://www.linkedin.com/in/atharva-kulkarni-146279187/">LinkedIn</a> 
 **********************************************************************************************************************************
